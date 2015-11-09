@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nanami Book';
+    src: url('../fonts/nanami/Nanami-Book-webfont.eot');
+    src: url('../fonts/nanami/Nanami-Book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nanami/Nanami-Book-webfont.woff2') format('woff2'),
+         url('../fonts/nanami/Nanami-Book-webfont.woff') format('woff'),
+         url('../fonts/nanami/Nanami-Book-webfont.ttf') format('truetype'),
+         url('../fonts/nanami/Nanami-Book-webfont.svg#nanamilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nanami Light';
+    src: url('../fonts/nanami/Nanami-Light-webfont.eot');
+    src: url('../fonts/nanami/Nanami-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nanami/Nanami-Light-webfont.woff2') format('woff2'),
+         url('../fonts/nanami/Nanami-Light-webfont.woff') format('woff'),
+         url('../fonts/nanami/Nanami-Light-webfont.ttf') format('truetype'),
+         url('../fonts/nanami/Nanami-Light-webfont.svg#nanamilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
